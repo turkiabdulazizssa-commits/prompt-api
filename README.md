@@ -1108,3 +1108,4 @@ Please see [the _Writing Assistance APIs_ specification](https://webmachinelearn
   * See [issue #74](https://github.com/webmachinelearning/prompt-api/issues/74) for some developer feedback
   * Examples of organic enthusiasm: [X post](https://x.com/mortenjust/status/1805190952358650251), [blog post](https://tyingshoelaces.com/blog/chrome-ai-prompt-api), [blog post](https://labs.thinktecture.com/local-small-language-models-in-the-browser-a-first-glance-at-chromes-built-in-ai-and-prompt-api-with-gemini-nano/)
   * [Feedback from developer surveys](https://docs.google.com/presentation/d/1DhFC2oB4PRrchavxUY3h9U4w4hrX5DAc5LoMqhn5hnk/edit#slide=id.g349a9ada368_1_6327)
+
